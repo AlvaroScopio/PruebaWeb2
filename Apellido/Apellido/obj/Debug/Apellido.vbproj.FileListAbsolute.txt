@@ -1,0 +1,3 @@
+c:\users\omar\documents\visual studio 2013\Projects\Apellido\Apellido\bin\Debug\Apellido.exe.config
+c:\users\omar\documents\visual studio 2013\Projects\Apellido\Apellido\obj\Debug\Apellido.Resources.resources
+c:\users\omar\documents\visual studio 2013\Projects\Apellido\Apellido\obj\Debug\Apellido.vbproj.GenerateResource.Cache
